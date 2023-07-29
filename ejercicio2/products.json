@@ -1,0 +1,18 @@
+[
+  {
+    "title": "Producto del manager 1",
+    "price": "300",
+    "thumbnail": "thumbailexample",
+    "id": "63e4df50-e3e2-4f16-98bc-97d358cc446e",
+    "code": "abc12545",
+    "stock": "20"
+  },
+  {
+    "title": "Producto del manager 3",
+    "price": "543",
+    "thumbnail": "thumbailexample",
+    "id": "8518794f-c58d-4632-a1a2-a4978870fe80",
+    "code": "abc125543",
+    "stock": "65"
+  }
+]

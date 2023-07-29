@@ -1,0 +1,82 @@
+[
+  {
+    "title": "WD-40",
+    "price": "300",
+    "thumbnail": "thumbailexample",
+    "id": "1",
+    "code": "abc12545",
+    "stock": "20"
+  },
+  {
+    "title": "Desodorante Dove",
+    "price": "543",
+    "thumbnail": "thumbailexample",
+    "id": "2",
+    "code": "abc125543",
+    "stock": "65"
+  },
+  {
+    "title": "Yerba Cachamai",
+    "price": "543",
+    "thumbnail": "thumbailexample",
+    "id": "3",
+    "code": "abc125543",
+    "stock": "65"
+  },
+  {
+    "title": "Dulce de Leche La serenisma",
+    "price": "543",
+    "thumbnail": "thumbailexample",
+    "id": "4",
+    "code": "abc125543",
+    "stock": "65"
+  },
+  {
+    "title": "Leche La Martona",
+    "price": "543",
+    "thumbnail": "thumbailexample",
+    "id": "5",
+    "code": "abc125543",
+    "stock": "65"
+  },
+  {
+    "title": "Pegamento La Gotita",
+    "price": "543",
+    "thumbnail": "thumbailexample",
+    "id": "6",
+    "code": "abc125543",
+    "stock": "65"
+  },
+  {
+    "title": "Gatorade de manzana",
+    "price": "543",
+    "thumbnail": "thumbailexample",
+    "id": "7",
+    "code": "abc125543",
+    "stock": "65"
+  },
+  {
+    "title": "Galletita Oreo",
+    "price": "543",
+    "thumbnail": "thumbailexample",
+    "id": "8",
+    "code": "abc125543",
+    "stock": "65"
+  },
+  {
+    "title": "Saphirus",
+    "price": "543",
+    "thumbnail": "thumbailexample",
+    "id": "9",
+    "code": "abc125543",
+    "stock": "65"
+  },
+  {
+    "title": "Nesquick",
+    "price": "543",
+    "thumbnail": "thumbailexample",
+    "id": "10",
+    "code": "abc125543",
+    "stock": "65"
+  }
+]
